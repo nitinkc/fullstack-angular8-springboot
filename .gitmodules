@@ -1,0 +1,6 @@
+[submodule "ToDoApp-Angular8"]
+	path = ToDoApp-Angular8
+	url = https://github.com/nitinkc/ToDoApp-Angular8.git
+[submodule "TodoApp-SpringBoot"]
+	path = TodoApp-SpringBoot
+	url = https://github.com/nitinkc/TodoApp-SpringBoot.git
